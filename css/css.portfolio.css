@@ -290,7 +290,7 @@ section {
   height: 4.5rem;
   width: 4.5rem;
   line-height: 4.5rem;
-  font-size: 1.9rem;
+  font-size: 1.5rem;
   border-radius: 50%;
   background: #d96846;
   color: #fff;
@@ -301,7 +301,7 @@ section {
 }
 
 .education .box-container .box span {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #fff;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
@@ -309,7 +309,7 @@ section {
 }
 
 .education .box-container .box h3 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   padding: 1rem 0;
   color: #d96846;
   padding-top: 3rem;
@@ -317,7 +317,7 @@ section {
 }
 
 .education .box-container .box p {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #2f3020;
   line-height: 2;
 }
