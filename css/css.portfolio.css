@@ -533,12 +533,12 @@ font-size: 1.5rem;
           align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  gap: 10rem;
+  gap: 5rem;
 
 }
 
 .contact .row .info-container {
-  width: 70rem;
+  width: 40rem;
  
 }
 
