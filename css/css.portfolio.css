@@ -142,8 +142,8 @@ section {
 }
 
 .home .image img {
-  height: 95rem;
-  width: 140rem;
+  height: 85rem;
+  width: 130rem;
 }
 
 .home .content {
@@ -154,19 +154,19 @@ section {
 
 .home .content h3 {
   color: #2f3020;
-  font-size: 5rem;
+  font-size: 4rem;
   padding-bottom: .5rem;
 }
 
 .home .content span {
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #d96846;
   padding: .5rem 0;
   display: block;
 }
 
 .home .content p {
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #2f3020;
   padding: 2rem 0;
   line-height: 2;
