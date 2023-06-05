@@ -413,15 +413,15 @@ section {
   padding-bottom: .5rem;
 }
 .about .row .count-container .box span{ 
-font-size: 2rem;
+font-size: 1.5rem;
   color: #d96846;
   padding: .5rem 0;
   display: block
 }
 .about .row .count-container .box p {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   color: #2f3020;
- padding: 1.5rem 0;
+ padding: 1rem 0;
   line-height: 2;
 }
 
